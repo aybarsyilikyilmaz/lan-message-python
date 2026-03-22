@@ -2,6 +2,10 @@
 ## About the Project
 This project was developed collaboratively with: https://github.com/hursitmelek
 
+## My Contribution
+- Worked on socket communication and message handling
+- Contributed to client-server architecture
+
 
 # LAN Message Python
 
