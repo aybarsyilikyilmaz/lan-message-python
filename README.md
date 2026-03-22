@@ -1,3 +1,8 @@
+
+## About the Project
+This project was developed collaboratively with: https://github.com/hursitmelek
+
+
 # LAN Message Python
 
 A simple local area network (LAN) messaging application written in Python. This project was originally developed as a school assignment and is now open-sourced for educational and practical use.
